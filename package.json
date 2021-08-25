@@ -2,14 +2,15 @@
     "name": "color-blind-light",
     "displayName": "Color Blind Light",
     "description": "Simple light theme for those with color blindness. This theme makes all text black with a white background.",
+    "icon": "icon.png",
     "version": "1.0.0",
     "license": "Apache-2.0",
     "publisher": "p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq",
     "repository": {
         "type": "git",
-        "url": "zzz"
+        "url": "https://github.com/xan1000/Color-Blind-Light"
     },
-    "homepage": "zzz",
+    "homepage": "https://github.com/xan1000/Color-Blind-Light",
     "engines": {
         "vscode": "^1.59.0"
     },
