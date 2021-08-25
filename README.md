@@ -4,7 +4,7 @@ A simple light `color theme` for `Visual Studio Code` for those with color blind
 
 This extension can be found here:
 
-zzz
+https://marketplace.visualstudio.com/items?itemName=p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq.color-blind-light
 
 Whilst editors using various colors for language syntax is helpful, for some with color blindness it can make it harder to read instead of easier.
 
