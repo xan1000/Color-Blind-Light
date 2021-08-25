@@ -1,0 +1,31 @@
+{
+    "name": "color-blind-light",
+    "displayName": "Color Blind Light",
+    "description": "Simple light theme for those with color blindness. This theme makes all text black with a white background.",
+    "version": "1.0.0",
+    "license": "Apache-2.0",
+    "publisher": "p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq",
+    "repository": {
+        "type": "git",
+        "url": "zzz"
+    },
+    "homepage": "zzz",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme", "color-theme", "colour", "blind", "light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Color Blind Light",
+                "uiTheme": "vs",
+                "path": "./themes/Color Blind Light-color-theme.json"
+            }
+        ]
+    }
+}

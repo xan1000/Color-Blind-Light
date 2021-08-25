@@ -1,0 +1,8 @@
+{
+	"name": "Color Blind Light",
+	"type": "light",
+	"colors": {
+		"editor.background": "#ffffff",
+		"editor.foreground": "#000000"
+	}
+}
